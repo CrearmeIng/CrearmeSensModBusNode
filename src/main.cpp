@@ -19,7 +19,6 @@ MeanFilter<float> meanFilter1(WINDOW_SIZE);
 MeanFilter<float> meanFilter2(WINDOW_SIZE);
 float pressure1 = 0;
 float pressure2 = 0;
-
 long lstTm = 0;
 long currTm = 0;
 
